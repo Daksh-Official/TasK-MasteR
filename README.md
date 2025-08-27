@@ -1,12 +1,58 @@
-# React + Vite
+# TasK-MasteR 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TasK-MasteR is a simple yet powerful **To-Do List Manager** built with **Vite + React** and styled with **Tailwind CSS**.  
+It helps you organize tasks efficiently with full CRUD functionality, and all your tasks are stored securely in the browser’s **Local Storage**, so they persist even after a page refresh.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- ➕ **Add new tasks** instantly.  
+- 📝 **Edit existing tasks** anytime.  
+- ✅ **Mark tasks as completed** with a single click.  
+- ❌ **Delete tasks** you no longer need.  
+- 💾 **Persistent storage** using browser local storage.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+- [Vite](https://vitejs.dev/) – Fast frontend build tool.  
+- [React](https://reactjs.org/) – Component-based UI library.  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework.  
+- **Local Storage** – For data persistence.  
+
+---
+
+## 📸 Screenshots
+(Add your screenshot(s) here)  
+![App Screenshot](./public/screenshot.png)
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/task-master.git
+cd task-master
+```
+### 2. npm install
+```bash
+npm install
+```
+### 3. start the devlopment server
+```bash
+npm run dev
+```
+### 4. Build for Production
+```bash
+npm run build
+```
+
+🛠️ Future Improvements Ideas<br>
+1. Dark mode support 🌙<br>
+2. Categories & priorities for tasks 📌<br>
+3. Cloud sync for cross-device access ☁️<br>
+
+---
+
+Made by Daksh Gupta
