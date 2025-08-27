@@ -32,8 +32,8 @@ It helps you organize tasks efficiently with full CRUD functionality, and all yo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-master.git
-cd task-master
+git clone https://github.com/Daksh-Official/TasK-MasteR.git
+cd TasK-MasteR
 ```
 ### 2. npm install
 ```bash
