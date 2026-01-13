@@ -24,7 +24,7 @@ It helps you organize tasks efficiently with full CRUD functionality, and all yo
 
 ## 📸 Screenshots
 (Add your screenshot(s) here)  
-![App Screenshot](./public/screenshot.png)
+![App Screenshot](https://github.com/Daksh-Official/TasK-MasteR/blob/main/public/screenshot.png?raw=true)
 
 ---
 
